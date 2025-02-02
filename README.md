@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there! I'm Diego Barrientos  
 
-<!--
-**diegobarrientosp/diegobarrientosp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 **Location:** Concepción, Chile  
+💼 **Profession:** Chemical Engineer with expertise in **industrial processes**, **data analytics**, and **process optimization**.  
+🎯 **Career Objective:** To leverage **data-driven decision-making** for operational adjustments and process design improvements in the chemical and mining industries.  
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+I am passionate about applying **Industry 4.0 technologies** to improve industrial processes. My experience includes working with **industrial sensors**, **real-time visibility**, and **advanced control systems** to enhance plant performance and productivity.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills  
+- **Programming Languages:** Python (Pandas, NumPy, TensorFlow, Scikit-learn, Plotly)  
+- **Data Visualization Tools:** Power BI, Dash Plotly  
+- **Chemical Engineering Principles:** Process control, thermodynamics, and mass transfer  
+
+## 📚 Education and Certifications  
+- **Diploma in IoT and Machine Learning** – Pontifical Catholic University of Chile (2024)  
+- **Bachelor’s Degree in Chemical Engineering** – University of Concepción (2019)  
+- **Certifications:** Python Programming and Data Analysis  
+
+## 📬 Contact Me  
+- **Email:** diegobarripereira@gmail.com  
+- **LinkedIn:** [/in/diegobarrientosp](#)  
+- **Phone:** +56 9 78869230  
+
+## 🎉 Fun Facts  
+- Sports enthusiast: trekking, stand-up paddleboarding, snowboarding, soccer, and running.  
+- Fascinated by finance, including stock market investments and cryptocurrencies.  
