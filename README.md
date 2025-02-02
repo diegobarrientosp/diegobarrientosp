@@ -19,7 +19,7 @@ I am passionate about applying **Industry 4.0 technologies** to improve industri
 
 ## 📬 Contact Me  
 - **Email:** diegobarripereira@gmail.com  
-- **LinkedIn:** [/in/diegobarrientosp](#)  
+- **LinkedIn:** [https://www.linkedin.com/in/diegobarrientosp/](#)  
 - **Phone:** +56 9 78869230  
 
 ## 🎉 Fun Facts  
