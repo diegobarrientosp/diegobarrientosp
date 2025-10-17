@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Diego Barrientos  
 
-🌍 **Location:** Concepción, Chile  
+🌍 **Location:** Pittsburgh, PA  
 💼 **Profession:** Chemical Engineer with expertise in **industrial processes**, **data analytics**, and **process optimization**.  
 🎯 **Career Objective:** To leverage **data-driven decision-making** for operational adjustments and process design improvements in the chemical and mining industries.  
 
