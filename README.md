@@ -8,7 +8,7 @@
 I am passionate about applying **Industry 4.0 technologies** to improve industrial processes. My experience includes working with **industrial sensors**, **real-time visibility**, and **advanced control systems** to enhance plant performance and productivity.  
 
 ## 🛠️ Technical Skills  
-- **Programming Languages:** Python (Pandas, NumPy, TensorFlow, Scikit-learn, Plotly, PySPark)  
+- **Programming Languages:** Python (Pandas, NumPy, TensorFlow, Scikit-learn, Plotly, PySpark)  
 - **Data Visualization Tools:** Power BI, Dash Plotly  
 - **Chemical Engineering Principles:** Process control, thermodynamics, and mass transfer  
 
