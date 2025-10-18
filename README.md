@@ -10,26 +10,26 @@ I am passionate about applying Industry 4.0 technologies and artificial intellig
 
 🛠️ Technical Skills
 
-Programming & Data Engineering: Python (Pandas, NumPy, TensorFlow, Scikit-learn, Plotly, PySpark), SQL, Apache Spark
+- Programming & Data Engineering: Python (Pandas, NumPy, TensorFlow, Scikit-learn, Plotly, PySpark), SQL, Apache Spark
 
-Data Visualization Tools: Power BI, Dash Plotly
+- Data Visualization Tools: Power BI, Dash Plotly
 
-Machine Learning & AI: Predictive modeling, soft sensors, process optimization
+- Machine Learning & AI: Predictive modeling, soft sensors, process optimization
 
-Chemical Engineering Principles: Process control, thermodynamics, transport phenomena, and mass transfer
+- Chemical Engineering Principles: Process control, thermodynamics, transport phenomena, and mass transfer
 
 📚 Education and Certifications
 
-Master’s in Artificial Intelligence Engineering – Chemical Engineering – Carnegie Mellon University (Expected 2026)
+- Master’s in Artificial Intelligence Engineering – Chemical Engineering – Carnegie Mellon University (Expected 2026)
 
-Diploma in IoT and Machine Learning – Pontifical Catholic University of Chile (2024)
+- Diploma in IoT and Machine Learning – Pontifical Catholic University of Chile (2024)
 
-Bachelor’s Degree in Chemical Engineering – University of Concepción (2019)
+- Bachelor’s Degree in Chemical Engineering – University of Concepción (2019)
 
-Certifications: Python Programming and Data Analysis
+- Certifications: Python Programming and Data Analysis
 
 📬 Contact Me
 
-Email: diegobarripereira@gmail.com
+- Email: dbarrien@andrew.cmu.edu
 
-LinkedIn: https://www.linkedin.com/in/diegobarrientosp/
+- LinkedIn: https://www.linkedin.com/in/diegobarrientosp/
