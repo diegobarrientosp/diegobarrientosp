@@ -1,27 +1,35 @@
 # 👋 Hi there! I'm Diego Barrientos  
 
-🌍 **Location:** Pittsburgh, PA  
-💼 **Profession:** Chemical Engineer with expertise in **industrial processes**, **data analytics**, and **process optimization**.  
-🎯 **Career Objective:** To leverage **data-driven decision-making** for operational adjustments and process design improvements in the chemical and mining industries.  
+🌍 Location: Pittsburgh, PA
+💼 Profession: Chemical Engineer & Graduate Student at Carnegie Mellon University
+🎯 Career Objective: To leverage AI and data-driven decision-making for operational adjustments, process design improvements, and innovation in the chemical and mining industries.
 
-## 🚀 About Me  
-I am passionate about applying **Industry 4.0 technologies** to improve industrial processes. My experience includes working with **industrial sensors**, **real-time visibility**, and **advanced control systems** to enhance plant performance and productivity.  
+🚀 About Me
 
-## 🛠️ Technical Skills  
-- **Programming Languages:** Python (Pandas, NumPy, TensorFlow, Scikit-learn, Plotly, PySpark)  
-- **Data Visualization Tools:** Power BI, Dash Plotly  
-- **Chemical Engineering Principles:** Process control, thermodynamics, and mass transfer  
+I am passionate about applying Industry 4.0 technologies and artificial intelligence to optimize industrial processes. My background includes experience with industrial sensors, real-time visibility, and advanced control systems to enhance plant performance and productivity. Currently, I am pursuing a Master’s in Artificial Intelligence Engineering – Chemical Engineering track at Carnegie Mellon University, where I am expanding my expertise in machine learning, data engineering, and advanced process modeling.
 
-## 📚 Education and Certifications  
-- **Diploma in IoT and Machine Learning** – Pontifical Catholic University of Chile (2024)  
-- **Bachelor’s Degree in Chemical Engineering** – University of Concepción (2019)  
-- **Certifications:** Python Programming and Data Analysis  
+🛠️ Technical Skills
 
-## 📬 Contact Me  
-- **Email:** diegobarripereira@gmail.com  
-- **LinkedIn:** [https://www.linkedin.com/in/diegobarrientosp/](#)  
-- **Phone:** +56 9 78869230  
+Programming & Data Engineering: Python (Pandas, NumPy, TensorFlow, Scikit-learn, Plotly, PySpark), SQL, Apache Spark
 
-## 🎉 Fun Facts  
-- Sports enthusiast: trekking, stand-up paddleboarding, snowboarding, soccer, and running.  
-- Fascinated by finance, including stock market investments and cryptocurrencies.  
+Data Visualization Tools: Power BI, Dash Plotly
+
+Machine Learning & AI: Predictive modeling, soft sensors, process optimization
+
+Chemical Engineering Principles: Process control, thermodynamics, transport phenomena, and mass transfer
+
+📚 Education and Certifications
+
+Master’s in Artificial Intelligence Engineering – Chemical Engineering – Carnegie Mellon University (Expected 2026)
+
+Diploma in IoT and Machine Learning – Pontifical Catholic University of Chile (2024)
+
+Bachelor’s Degree in Chemical Engineering – University of Concepción (2019)
+
+Certifications: Python Programming and Data Analysis
+
+📬 Contact Me
+
+Email: diegobarripereira@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/diegobarrientosp/
