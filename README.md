@@ -10,7 +10,7 @@ I am passionate about applying Industry 4.0 technologies and artificial intellig
 
 🛠️ Technical Skills
 
-- Programming & Data Engineering: Python (Pandas, NumPy, TensorFlow, Scikit-learn, Plotly, PySpark), SQL, Apache Spark
+- Programming & Data Engineering: Python (Pandas, NumPy, TensorFlow, Scikit-learn, Plotly, PySpark, PyTorch), SQL, Apache Spark
 
 - Data Visualization Tools: Power BI, Dash Plotly
 
