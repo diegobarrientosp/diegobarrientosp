@@ -1,8 +1,8 @@
 # 👋 Hi there! I'm Diego Barrientos  
 
-🌍 Location: Pittsburgh, PA
-💼 Profession: Chemical Engineer & Graduate Student at Carnegie Mellon University
-🎯 Career Objective: To leverage AI and data-driven decision-making for operational adjustments, process design improvements, and innovation in the chemical and mining industries.
+- 🌍 Location: Pittsburgh, PA
+- 💼 Profession: Chemical Engineer & Graduate Student at Carnegie Mellon University
+- 🎯 Career Objective: To leverage AI and data-driven decision-making for operational adjustments, process design improvements, and innovation in the chemical and mining industries.
 
 🚀 About Me
 
