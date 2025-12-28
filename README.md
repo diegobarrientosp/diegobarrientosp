@@ -1,7 +1,7 @@
-👋 Hi there! I’m Diego Barrientos
+# 👋 Hi there! I’m Diego Barrientos
 
 🎓 Chemical Engineer | M.S. Student in AI Engineering (Chemical Engineering track) at Carnegie Mellon University  
-🔍 Seeking Data Science / Machine Learning Internship — Summer 2026
+🔍 Seeking Data Science / Machine Learning/ Artificial Intelligence Internship — Summer 2026
 
 ---
 
